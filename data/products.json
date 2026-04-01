@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "Industry-leading noise canceling with two processors controlling 8 microphones. Sony's best noise canceling headphones ever.",
+    "category": "Electronics",
+    "price": 349.99,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426ff473b?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Apple Watch Series 9",
+    "description": "Smarter, brighter, mightier. Advanced health features, fitness tracking, and a powerful new chip.",
+    "category": "Electronics",
+    "price": 399.00,
+    "image": "https://images.unsplash.com/photo-1544117518-30df578096a4?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Kindle Paperwhite (16 GB)",
+    "description": "Now with a 6.8\" display and thinner borders, adjustable warm light, up to 10 weeks of battery life.",
+    "category": "Books",
+    "price": 139.99,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Logitech MX Master 3S",
+    "description": "An iconic mouse remastered. Use MX Master 3S wireless mouse with 8K DPI sensor for more precision, speed, and silence.",
+    "category": "Accessories",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Bose QuietComfort Ultra",
+    "description": "Breakthrough spatialized audio for more immersive listening that makes your music feel more real than ever before.",
+    "category": "Electronics",
+    "price": 429.00,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Instant Pot Duo Plus 9-in-1",
+    "description": "Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté Pan, Yogurt Maker, and more.",
+    "category": "Kitchen",
+    "price": 129.95,
+    "image": "https://images.unsplash.com/photo-1585232004423-244e0e6904e3?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Nintendo Switch – OLED Model",
+    "description": "Features a vibrant 7-inch OLED screen, a wide adjustable stand, a dock with a wired LAN port, and 64 GB internal storage.",
+    "category": "Gaming",
+    "price": 349.99,
+    "image": "https://images.unsplash.com/photo-1578303372704-14f089299496?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 8,
+    "name": "AirPods Pro (2nd Generation)",
+    "description": "MagSafe Charging Case (USB-C), Up to 2x more Active Noise Cancellation, Personalized Spatial Audio.",
+    "category": "Electronics",
+    "price": 249.00,
+    "image": "https://images.unsplash.com/photo-1588423770574-f199ba423691?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Lamicall Adjustable Laptop Stand",
+    "description": "Ergonomic laptop riser compatible with MacBook Air Pro, Dell XPS, HP, and more. Improved heat dissipation.",
+    "category": "Accessories",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1616335198468-f99a9a3b688c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Anker PowerCore 26800mAh",
+    "description": "High capacity portable charger with dual input port and triple-speed recharging. Provides 6+ charges for most phones.",
+    "category": "Accessories",
+    "price": 65.99,
+    "image": "https://images.unsplash.com/photo-1611186871348-71ce4e4e3ad3?auto=format&fit=crop&w=400&q=80"
+  }
+]
