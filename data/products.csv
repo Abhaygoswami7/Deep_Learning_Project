@@ -1,0 +1,110 @@
+id,name,description,category,image,price
+1,iPhone 15,Latest Apple smartphone with A16 chip,electronics,https://m.media-amazon.com/images/I/71d7rfSl0wL._SX679_.jpg,79999
+2,Samsung Galaxy S23,Flagship Android smartphone,electronics,https://m.media-amazon.com/images/I/61RZDb2mQxL._SX679_.jpg,74999
+3,OnePlus 11 5G,High performance Android phone,electronics,https://m.media-amazon.com/images/I/61amb0CfMGL._SX679_.jpg,56999
+4,Apple MacBook Air M1,Lightweight performance laptop,electronics,https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg,89999
+5,Dell Inspiron 15 Laptop,Reliable everyday laptop,electronics,https://m.media-amazon.com/images/I/61GEizrmU9L._SX679_.jpg,55999
+6,Sony WH-1000XM4 Headphones,Noise cancelling over-ear headphones,electronics,https://m.media-amazon.com/images/I/71o8Q5XJS5L._SX679_.jpg,24999
+7,boAt Airdopes 141 Earbuds,Wireless Bluetooth earbuds,electronics,https://m.media-amazon.com/images/I/61KNJav3S9L._SX679_.jpg,1299
+8,Amazon Fire TV Stick 4K,Streaming device with Alexa,electronics,https://m.media-amazon.com/images/I/51TjJOTfslL._SX679_.jpg,5999
+9,Mi Smart TV 43 Inch,Full HD Android Smart TV,electronics,https://m.media-amazon.com/images/I/71rx1zq4VHL._SX679_.jpg,23999
+10,Canon EOS 1500D DSLR Camera,Entry-level DSLR camera,electronics,https://m.media-amazon.com/images/I/914hFeTU2-L._SX679_.jpg,38999
+
+11,Men Cotton Crew Neck T-Shirt,Comfortable daily wear t-shirt,clothing,https://m.media-amazon.com/images/I/61-jBuhtgZL._UX679_.jpg,499
+12,Men Slim Fit Blue Jeans,Denim slim fit jeans,clothing,https://m.media-amazon.com/images/I/61x1C3G1K4L._UX679_.jpg,1299
+13,Men Formal White Shirt,Cotton office wear shirt,clothing,https://m.media-amazon.com/images/I/61X7qZ5sQyL._UX679_.jpg,799
+14,Men Winter Hoodie Sweatshirt,Warm fleece hoodie,clothing,https://m.media-amazon.com/images/I/71x6bXGQYLL._UX679_.jpg,1499
+15,Women Printed Kurti,Traditional ethnic kurti,clothing,https://m.media-amazon.com/images/I/71Q1tRzJ-PL._UY879_.jpg,899
+16,Women Silk Saree,Elegant festive saree,clothing,https://m.media-amazon.com/images/I/71s4J9J1hXL._UY879_.jpg,2499
+17,Women Casual Western Top,Stylish daily wear top,clothing,https://m.media-amazon.com/images/I/61l9ppRIiqL._UY879_.jpg,699
+18,Women Winter Jacket,Stylish warm jacket,clothing,https://m.media-amazon.com/images/I/61C9wRk8iBL._UY879_.jpg,1999
+19,Men Sports Shorts,Lightweight workout shorts,clothing,https://m.media-amazon.com/images/I/61O2FvR9cHL._UX679_.jpg,599
+20,Women Stretch Leggings,Comfortable elastic leggings,clothing,https://m.media-amazon.com/images/I/61Y3L6pG7EL._UY879_.jpg,499
+
+21,Prestige Aluminum Pressure Cooker,Durable kitchen pressure cooker,home_kitchen,https://m.media-amazon.com/images/I/61vQhV6i2yL._SX679_.jpg,1299
+22,Pigeon 2 Burner Gas Stove,Compact LPG gas stove,home_kitchen,https://m.media-amazon.com/images/I/61d1U9vW0LL._SX679_.jpg,1799
+23,Philips Mixer Grinder 750W,Powerful kitchen mixer grinder,home_kitchen,https://m.media-amazon.com/images/I/61dLZ0cH1RL._SX679_.jpg,2499
+24,Milton Stainless Steel Water Bottle,Insulated steel bottle,home_kitchen,https://m.media-amazon.com/images/I/61g3k5H1OJL._SX679_.jpg,599
+25,Cello Opalware Dinner Set,Complete dinnerware set,home_kitchen,https://m.media-amazon.com/images/I/71cYc4xWcVL._SX679_.jpg,1999
+26,Electric Kettle 1.5L Stainless Steel,Fast boiling kettle,home_kitchen,https://m.media-amazon.com/images/I/61y9k+Xf4CL._SX679_.jpg,999
+27,Nonstick Frying Pan 24cm,Durable nonstick pan,home_kitchen,https://m.media-amazon.com/images/I/61JH6yP6oHL._SX679_.jpg,899
+28,Airtight Storage Containers Set,Kitchen storage boxes set,home_kitchen,https://m.media-amazon.com/images/I/71r3n6V4RGL._SX679_.jpg,699
+29,Stainless Steel Kitchen Knife Set,Sharp multipurpose knives,home_kitchen,https://m.media-amazon.com/images/I/61b8lP6c7HL._SX679_.jpg,999
+30,Modern Wall Clock Round,Stylish home wall clock,home_kitchen,https://m.media-amazon.com/images/I/61f1e8W1G7L._SX679_.jpg,499
+
+31,Lakme Peach Milk Moisturizer,Daily nourishing face cream,beauty,https://m.media-amazon.com/images/I/61yVqHj0cJL._SX679_.jpg,299
+32,Neutrogena Ultra Sheer Sunscreen SPF50,Lightweight sun protection lotion,beauty,https://m.media-amazon.com/images/I/61V1H6H6bLL._SX679_.jpg,499
+33,Garnier Men Oil Clear Face Wash,Oil control face cleanser,beauty,https://m.media-amazon.com/images/I/61z3R1r9tBL._SX679_.jpg,199
+34,Maybelline New York Hypercurl Mascara,Volumizing eye mascara,beauty,https://m.media-amazon.com/images/I/61n9X9+TqQL._SX679_.jpg,399
+35,Nivea Cocoa Nourish Body Lotion,Deep moisturizing body lotion,beauty,https://m.media-amazon.com/images/I/61QK+u9V0RL._SX679_.jpg,349
+36,Minimalist Niacinamide 10% Serum,Face serum for acne control,beauty,https://m.media-amazon.com/images/I/61bH6z+Y3EL._SX679_.jpg,699
+37,Himalaya Neem Face Pack,Herbal anti-acne face pack,beauty,https://m.media-amazon.com/images/I/61p9F1G1kHL._SX679_.jpg,149
+38,Loreal Paris Total Repair 5 Shampoo,Hair repair shampoo,beauty,https://m.media-amazon.com/images/I/61k5n2J8JkL._SX679_.jpg,399
+39,Nivea Original Care Lip Balm,Hydrating lip care balm,beauty,https://m.media-amazon.com/images/I/61QK+u9V0RL._SX679_.jpg,149
+40,Maybelline Fit Me Compact Powder,Matte finish face powder,beauty,https://m.media-amazon.com/images/I/61n9X9+TqQL._SX679_.jpg,299
+
+41,Men Running Shoes Lightweight,Breathable sports running shoes,footwear,https://m.media-amazon.com/images/I/71z1+2Y+WML._UX679_.jpg,1499
+42,Women Casual Sneakers White,Stylish everyday sneakers,footwear,https://m.media-amazon.com/images/I/61c7T+6FhCL._UY879_.jpg,1399
+43,Men Formal Leather Shoes Black,Office wear formal shoes,footwear,https://m.media-amazon.com/images/I/61y1J9zK3PL._UX679_.jpg,1999
+44,Women Flat Sandals Beige,Comfortable flat sandals,footwear,https://m.media-amazon.com/images/I/61X1fX+Z3BL._UY879_.jpg,999
+45,Men Flip Flops Rubber,Daily wear slippers,footwear,https://m.media-amazon.com/images/I/61R3t1H0+XL._UX679_.jpg,499
+46,Kids School Shoes Black,Durable school footwear,footwear,https://m.media-amazon.com/images/I/61x9J9+zXGL._SX679_.jpg,899
+47,Men Sports Sneakers Grey,Lightweight gym sneakers,footwear,https://m.media-amazon.com/images/I/61G5R7VY9KL._UX679_.jpg,1799
+48,Women Party Heels High,Stylish high heel sandals,footwear,https://m.media-amazon.com/images/I/61F8yX5ZbXL._UY879_.jpg,1499
+49,Men Casual Loafers Brown,Slip-on casual shoes,footwear,https://m.media-amazon.com/images/I/61K2X7D1cYL._UX679_.jpg,1599
+50,Women Indoor Slippers Soft,Comfort home slippers,footwear,https://m.media-amazon.com/images/I/61R9F2k4GFL._UY879_.jpg,599
+
+51,Fastrack Analog Watch Men,Stylish wrist watch for men,accessories,https://m.media-amazon.com/images/I/61r6k2K9QEL._SX679_.jpg,1499
+52,Wildcraft Backpack Travel,Durable everyday backpack,accessories,https://m.media-amazon.com/images/I/71QpV9eJZEL._SX679_.jpg,1299
+53,RayBan UV Protection Sunglasses,Stylish protective sunglasses,accessories,https://m.media-amazon.com/images/I/61k7Z1h2kAL._SX679_.jpg,5999
+54,Men Leather Wallet Brown,Compact bifold wallet,accessories,https://m.media-amazon.com/images/I/61j5k3f1HGL._SX679_.jpg,799
+55,Women Handbag Shoulder Style,Trendy daily handbag,accessories,https://m.media-amazon.com/images/I/61g9k3k2hBL._SX679_.jpg,1599
+56,Mi Power Bank 20000mAh,Fast charging portable power bank,accessories,https://m.media-amazon.com/images/I/71lVwl3q-kL._SX679_.jpg,1999
+57,Noise True Wireless Earbuds,Bluetooth in-ear earbuds,accessories,https://m.media-amazon.com/images/I/61epn29QG0L._SX679_.jpg,1299
+58,Amazon Basics Laptop Sleeve,Protective laptop sleeve case,accessories,https://m.media-amazon.com/images/I/81k6h4Y6ZUL._SX679_.jpg,699
+59,Travel Neck Pillow Memory Foam,Comfortable travel pillow,accessories,https://m.media-amazon.com/images/I/61kzM8L5vPL._SX679_.jpg,499
+60,Adjustable Mobile Phone Stand,Desk phone holder stand,accessories,https://m.media-amazon.com/images/I/61n9X9+TqQL._SX679_.jpg,199
+
+61,Whey Protein Powder 1kg,Muscle building protein supplement,fitness,https://m.media-amazon.com/images/I/71g2ednj0JL._SX679_.jpg,2499
+62,Yoga Mat Anti-Slip 6mm,Comfortable exercise mat,fitness,https://m.media-amazon.com/images/I/61p9Z1K1kHL._SX679_.jpg,799
+63,Dumbbells Set 10kg Home Gym,Strength training weights,fitness,https://m.media-amazon.com/images/I/71r3n6V4RGL._SX679_.jpg,1499
+64,Skipping Rope Adjustable,Cardio workout rope,fitness,https://m.media-amazon.com/images/I/61f1e8W1G7L._SX679_.jpg,299
+65,Resistance Bands Set Workout,Elastic exercise bands,fitness,https://m.media-amazon.com/images/I/61g3k5H1OJL._SX679_.jpg,499
+66,Ab Roller Wheel Trainer,Core strengthening equipment,fitness,https://m.media-amazon.com/images/I/61dLZ0cH1RL._SX679_.jpg,699
+67,Home Treadmill Foldable,Running machine for home,fitness,https://m.media-amazon.com/images/I/71cYc4xWcVL._SX679_.jpg,24999
+68,Exercise Bike Indoor Cycle,Cardio stationary bike,fitness,https://m.media-amazon.com/images/I/61w3n6Q7rAL._SX679_.jpg,18999
+69,Doorway Pull Up Bar,Upper body workout bar,fitness,https://m.media-amazon.com/images/I/61JH6yP6oHL._SX679_.jpg,999
+70,Foam Roller Muscle Recovery,Deep tissue massage roller,fitness,https://m.media-amazon.com/images/I/61y9k+Xf4CL._SX679_.jpg,799
+
+71,Atomic Habits by James Clear,Self improvement habits book,books,https://m.media-amazon.com/images/I/81bGKUa1e0L._SX679_.jpg,499
+72,Rich Dad Poor Dad by Robert Kiyosaki,Personal finance book,books,https://m.media-amazon.com/images/I/81bsw6fnUiL._SX679_.jpg,399
+73,Ikigai by Hector Garcia,Japanese philosophy book,books,https://m.media-amazon.com/images/I/71tbalAHYCL._SX679_.jpg,299
+74,The Alchemist by Paulo Coelho,Inspirational fiction novel,books,https://m.media-amazon.com/images/I/71aFt4+OTOL._SX679_.jpg,299
+75,Think and Grow Rich by Napoleon Hill,Success mindset book,books,https://m.media-amazon.com/images/I/71UypkUjStL._SX679_.jpg,349
+76,Deep Work by Cal Newport,Focus and productivity guide,books,https://m.media-amazon.com/images/I/71QKQ9mwV7L._SX679_.jpg,399
+77,The Power of Habit by Charles Duhigg,Habits psychology book,books,https://m.media-amazon.com/images/I/71Q1tRzJ-PL._SX679_.jpg,399
+78,Start With Why by Simon Sinek,Leadership and purpose book,books,https://m.media-amazon.com/images/I/71VZ5p8p4VL._SX679_.jpg,449
+79,Zero to One by Peter Thiel,Startup and innovation book,books,https://m.media-amazon.com/images/I/71m-MxdJ2WL._SX679_.jpg,399
+80,Harry Potter Box Set by J.K. Rowling,Fantasy novel collection,books,https://m.media-amazon.com/images/I/81iqZ2HHD-L._SX679_.jpg,1999
+
+81,LEGO Classic Bricks Set,Creative building blocks toy,toys,https://m.media-amazon.com/images/I/81t2CVWEsUL._SX679_.jpg,1999
+82,Remote Control Car High Speed,Electric RC toy car,toys,https://m.media-amazon.com/images/I/71d4k3k2hBL._SX679_.jpg,1499
+83,Barbie Fashion Doll,Kids fashion doll toy,toys,https://m.media-amazon.com/images/I/71l9ppRIiqL._SX679_.jpg,999
+84,Kids Jigsaw Puzzle 500 Pieces,Brain development puzzle toy,toys,https://m.media-amazon.com/images/I/61k7Z1h2kAL._SX679_.jpg,399
+85,Soft Teddy Bear Plush Toy,Cute stuffed teddy bear,toys,https://m.media-amazon.com/images/I/61g9k3k2hBL._SX679_.jpg,699
+86,Hot Wheels Car Pack Set,Mini die-cast car toys,toys,https://m.media-amazon.com/images/I/81k6h4Y6ZUL._SX679_.jpg,799
+87,Kids Building Blocks Set,Educational block toy set,toys,https://m.media-amazon.com/images/I/61j5k3f1HGL._SX679_.jpg,599
+88,Magnetic Drawing Board for Kids,Reusable drawing toy board,toys,https://m.media-amazon.com/images/I/61tX5p9m9CL._SX679_.jpg,499
+89,Kids Musical Keyboard Toy,Electronic piano toy,toys,https://m.media-amazon.com/images/I/61r6k2K9QEL._SX679_.jpg,1299
+90,Beyblade Burst Battle Set,Spinning battle toy set,toys,https://m.media-amazon.com/images/I/71QpV9eJZEL._SX679_.jpg,999
+
+91,India Gate Basmati Rice 5kg,Premium long grain basmati rice,groceries,https://m.media-amazon.com/images/I/71x6bXGQYLL._SX679_.jpg,899
+92,Aashirvaad Whole Wheat Atta 5kg,High quality wheat flour,groceries,https://m.media-amazon.com/images/I/61O2FvR9cHL._SX679_.jpg,299
+93,Tata Salt Iodized 1kg,Refined iodized salt,groceries,https://m.media-amazon.com/images/I/61X7qZ5sQyL._SX679_.jpg,28
+94,Fortune Sunflower Oil 1L,Refined cooking oil,groceries,https://m.media-amazon.com/images/I/61Y3L6pG7EL._SX679_.jpg,179
+95,Bru Instant Coffee 200g,Rich instant coffee powder,groceries,https://m.media-amazon.com/images/I/61C9wRk8iBL._SX679_.jpg,399
+96,Taj Mahal Tea 1kg,Premium tea leaves pack,groceries,https://m.media-amazon.com/images/I/71Q1tRzJ-PL._SX679_.jpg,499
+97,Maggi 2-Minute Noodles Pack,Instant noodles multipack,groceries,https://m.media-amazon.com/images/I/61-jBuhtgZL._SX679_.jpg,168
+98,Amul Butter 500g,Fresh dairy butter pack,groceries,https://m.media-amazon.com/images/I/61x1C3G1K4L._SX679_.jpg,275
+99,Kelloggs Cornflakes 475g,Breakfast cereal pack,groceries,https://m.media-amazon.com/images/I/71s4J9J1hXL._SX679_.jpg,350
+100,Britannia Good Day Biscuits Pack,Popular biscuit pack,groceries,https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg,120

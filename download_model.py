@@ -1,13 +1,25 @@
-from sentence_transformers import SentenceTransformer
 import os
+from sentence_transformers import SentenceTransformer
 
-model_name = 'sentence-transformers/all-MiniLM-L6-v2'
-save_path = os.path.join('models', 'all-MiniLM-L6-v2')
+def download_and_save_model():
+    try:
+        print("Downloading model... (this may take 1-2 minutes)")
 
-print(f"Downloading model: {model_name}...")
-model = SentenceTransformer(model_name)
+        # Create models directory if not exists
+        os.makedirs("models", exist_ok=True)
 
-print(f"Saving model to: {save_path}...")
-model.save(save_path)
+        # Load model from Hugging Face
+        model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
-print("Model download and save complete.")
+        # Save model locally
+        save_path = "models/minilm"
+        model.save(save_path)
+
+        print(f"✅ Model successfully saved at: {save_path}")
+
+    except Exception as e:
+        print("❌ Error occurred while downloading model:")
+        print(e)
+
+if __name__ == "__main__":
+    download_and_save_model()
