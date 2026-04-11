@@ -38,9 +38,6 @@ function ProductCard({ product, onClick, badge, badgeClass, reason }) {
           src={product.image}
           alt={product.name}
           loading="lazy"
-          onError={(e) => {
-            e.target.style.display = "none";
-          }}
         />
       </div>
 
@@ -60,7 +57,7 @@ function ProductCard({ product, onClick, badge, badgeClass, reason }) {
 
         {reason && (
           <div className="product-card-reason">
-            🤖 {reason}
+          {reason}
           </div>
         )}
 

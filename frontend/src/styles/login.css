@@ -1,0 +1,96 @@
+/* MAIN CONTAINER */
+.login-container {
+  display: flex;
+  height: 100vh;
+  background: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+/* LEFT SIDE (LOGO AREA) */
+.login-left {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-logo {
+  width: 70%;
+  max-width: 500px;
+  object-fit: contain;
+}
+
+/* RIGHT SIDE (CONTENT) */
+.login-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 60px;
+}
+
+/* TITLE */
+.login-title {
+  font-size: 72px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+/* SUBTITLE */
+.login-subtitle {
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+/* BUTTON STYLE (FOR AUTHFORM IF NEEDED) */
+.login-right button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 999px;
+  border: none;
+  font-weight: 600;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+/* PRIMARY BUTTON */
+.login-btn-primary {
+  background: white;
+  color: black;
+}
+
+/* SECONDARY BUTTON */
+.login-btn-secondary {
+  background: transparent;
+  border: 1px solid #555;
+  color: white;
+}
+
+/* HOVER EFFECT */
+.login-btn-primary:hover {
+  background: #e6e6e6;
+}
+
+.login-btn-secondary:hover {
+  background: #111;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .login-container {
+    flex-direction: column;
+  }
+
+  .login-left {
+    display: none;
+  }
+
+  .login-right {
+    padding: 30px;
+  }
+
+  .login-title {
+    font-size: 48px;
+  }
+}

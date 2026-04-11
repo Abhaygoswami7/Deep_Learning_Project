@@ -19,4 +19,4 @@ embeddings = model.encode(df['text'].tolist())
 with open('../models/embeddings.pkl', 'wb') as f:
     pickle.dump((df, embeddings), f)
 
-print("✅ Embeddings created and saved!")
+print("[OK] Embeddings created and saved!")
