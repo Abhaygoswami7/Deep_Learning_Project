@@ -4,37 +4,37 @@ const categories = [
   {
     name: "Electronics",
     items: [
-      { label: "Smartphones", img: "https://m.media-amazon.com/images/I/71d7rfSl0wL._SX679_.jpg" },
-      { label: "Laptops", img: "https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg" },
-      { label: "Headphones", img: "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SX679_.jpg" },
-      { label: "Cameras", img: "https://m.media-amazon.com/images/I/914hFeTU2-L._SX679_.jpg" },
+      { label: "Smartphones", img: "/images/products/1.png" },
+      { label: "Laptops", img: "/images/products/4.png" },
+      { label: "Headphones", img: "/images/products/6.png" },
+      { label: "Cameras", img: "/images/products/10.png" },
     ],
   },
   {
     name: "Fashion",
     items: [
-      { label: "Men's Wear", img: "https://m.media-amazon.com/images/I/61-jBuhtgZL._UX679_.jpg" },
-      { label: "Women's Wear", img: "https://m.media-amazon.com/images/I/71Q1tRzJ-PL._UY879_.jpg" },
-      { label: "Footwear", img: "https://m.media-amazon.com/images/I/71z1+2Y+WML._UX679_.jpg" },
-      { label: "Accessories", img: "https://m.media-amazon.com/images/I/61r6k2K9QEL._SX679_.jpg" },
+      { label: "Men's Wear", img: "/images/products/11.png" },
+      { label: "Women's Wear", img: "/images/products/16.png" },
+      { label: "Footwear", img: "/images/products/41.png" },
+      { label: "Accessories", img: "/images/products/51.png" },
     ],
   },
   {
     name: "Home & Kitchen",
     items: [
-      { label: "Cookware", img: "https://m.media-amazon.com/images/I/61vQhV6i2yL._SX679_.jpg" },
-      { label: "Kitchen", img: "https://m.media-amazon.com/images/I/61dLZ0cH1RL._SX679_.jpg" },
-      { label: "Storage", img: "https://m.media-amazon.com/images/I/71r3n6V4RGL._SX679_.jpg" },
-      { label: "Decor", img: "https://m.media-amazon.com/images/I/61f1e8W1G7L._SX679_.jpg" },
+      { label: "Cookware", img: "/images/products/21.png" },
+      { label: "Kitchen", img: "/images/products/23.png" },
+      { label: "Storage", img: "/images/products/28.png" },
+      { label: "Decor", img: "/images/products/30.png" },
     ],
   },
   {
     name: "Books & Learning",
     items: [
-      { label: "Self-Help", img: "https://m.media-amazon.com/images/I/81bGKUa1e0L._SX679_.jpg" },
-      { label: "Finance", img: "https://m.media-amazon.com/images/I/81bsw6fnUiL._SX679_.jpg" },
-      { label: "Fiction", img: "https://m.media-amazon.com/images/I/71aFt4+OTOL._SX679_.jpg" },
-      { label: "Productivity", img: "https://m.media-amazon.com/images/I/71QKQ9mwV7L._SX679_.jpg" },
+      { label: "Self-Help", img: "/images/products/71.png" },
+      { label: "Finance", img: "/images/products/72.png" },
+      { label: "Fiction", img: "/images/products/74.png" },
+      { label: "Productivity", img: "/images/products/76.png" },
     ],
   },
 ];

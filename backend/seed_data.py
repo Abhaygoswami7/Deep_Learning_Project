@@ -15,7 +15,7 @@ from auth import hash_password
 
 # Sample social media posts content
 SAMPLE_POSTS = [
-    "Just got my new iPhone 15! The camera quality is absolutely insane 📸 #Apple #Tech",
+    "Just got my new iPhone 15! The camera quality is absolutely insane #Apple #Tech",
     "Anyone tried the new Samsung Galaxy S23? Thinking of switching from Apple... 🤔",
     "Best productivity hack: Deep Work by Cal Newport. Changed my entire routine! 📚 #BookRecommendation",
     "Morning run completed 🏃‍♂️ 5km in 25 minutes. These new running shoes are game changers!",
@@ -49,14 +49,22 @@ SAMPLE_POSTS = [
 
 # Sample users
 SAMPLE_USERS = [
-    {"username": "techie_rahul", "email": "rahul@test.com", "password": "test123", "display_name": "Rahul Sharma"},
-    {"username": "priya_reads", "email": "priya@test.com", "password": "test123", "display_name": "Priya Patel"},
-    {"username": "fitness_arjun", "email": "arjun@test.com", "password": "test123", "display_name": "Arjun Singh"},
-    {"username": "foodie_ananya", "email": "ananya@test.com", "password": "test123", "display_name": "Ananya Gupta"},
-    {"username": "dev_vikram", "email": "vikram@test.com", "password": "test123", "display_name": "Vikram Kumar"},
-    {"username": "style_neha", "email": "neha@test.com", "password": "test123", "display_name": "Neha Verma"},
-    {"username": "bookworm_aditya", "email": "aditya@test.com", "password": "test123", "display_name": "Aditya Joshi"},
-    {"username": "gadget_guru", "email": "guru@test.com", "password": "test123", "display_name": "Gaurav Tech"},
+    {"username": "deeplearning", "email": "deeplearning@project.com", "password": "deeplearning@123", "display_name": "Deep Learning"},
+    {"username": "rahul_sharma92", "email": "rahul.sharma92@gmail.com", "password": "rahul@123", "display_name": "Rahul Sharma"},
+    {"username": "priya_verma",    "email": "priya.verma@gmail.com",    "password": "priya@123",  "display_name": "Priya Verma"},
+    {"username": "amit_patel07",   "email": "amit.patel07@gmail.com",   "password": "amit@123",   "display_name": "Amit Patel"},
+    {"username": "sneha_nair",     "email": "sneha.nair@gmail.com",     "password": "sneha@123",  "display_name": "Sneha Nair"},
+    {"username": "vikram_singh",   "email": "vikram.singh@gmail.com",   "password": "vikram@123", "display_name": "Vikram Singh"},
+    {"username": "kavya_reddy",    "email": "kavya.reddy@gmail.com",    "password": "kavya@123",  "display_name": "Kavya Reddy"},
+    {"username": "arjun_mehta",    "email": "arjun.mehta@gmail.com",    "password": "arjun@123",  "display_name": "Arjun Mehta"},
+    {"username": "ananya_iyer",    "email": "ananya.iyer@gmail.com",    "password": "ananya@123", "display_name": "Ananya Iyer"},
+    {"username": "rohan_gupta",    "email": "rohan.gupta@gmail.com",    "password": "rohan@123",  "display_name": "Rohan Gupta"},
+    {"username": "pooja_joshi",    "email": "pooja.joshi@gmail.com",    "password": "pooja@123",  "display_name": "Pooja Joshi"},
+    {"username": "kiran_rao",      "email": "kiran.rao@gmail.com",      "password": "kiran@123",  "display_name": "Kiran Rao"},
+    {"username": "ritika_bose",    "email": "ritika.bose@gmail.com",    "password": "ritika@123", "display_name": "Ritika Bose"},
+    {"username": "nikhil_desai",   "email": "nikhil.desai@gmail.com",   "password": "nikhil@123", "display_name": "Nikhil Desai"},
+    {"username": "meera_pillai",   "email": "meera.pillai@gmail.com",   "password": "meera@123",  "display_name": "Meera Pillai"},
+    {"username": "siddharth_k",    "email": "siddharth.k@gmail.com",    "password": "siddk@123",  "display_name": "Siddharth Kumar"},
 ]
 
 

@@ -8,9 +8,9 @@ import { useNavigate } from "react-router-dom";
 
 function AuthForm() {
   const [isLogin, setIsLogin] = useState(true);
-  const [username, setUsername] = useState("");
+  const [username, setUsername] = useState("deeplearning");
   const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
+  const [password, setPassword] = useState("deeplearning@123");
   const [displayName, setDisplayName] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
@@ -72,7 +72,7 @@ function AuthForm() {
               onChange={(e) => setUsername(e.target.value)}
               placeholder="Enter your username"
               required
-              minLength={3}
+              minLength={1}
             />
           </div>
 
@@ -111,7 +111,7 @@ function AuthForm() {
               onChange={(e) => setPassword(e.target.value)}
               placeholder="Enter your password"
               required
-              minLength={6}
+              minLength={1}
             />
           </div>
 
@@ -141,7 +141,7 @@ function AuthForm() {
         </button>
 
         <div className="auth-demo-credentials">
-          <p>Demo: <strong>techie_rahul</strong> / <strong>test123</strong></p>
+          <p>Demo: <strong>deeplearning</strong> / <strong>deeplearning@123</strong></p>
         </div>
       </div>
     </div>

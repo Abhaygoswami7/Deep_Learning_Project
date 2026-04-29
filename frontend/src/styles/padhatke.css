@@ -10,6 +10,7 @@
   --ph-border: #e6e6e6;          /* borders */
   --ph-text: #000000;            /* main text */
   --ph-text-secondary: #536471;  /* secondary text */
+  --ph-like: #E0245E;             /* liked heart red */
 }
 
 /* ===== THREE-COLUMN LAYOUT ===== */
@@ -430,7 +431,7 @@
 .ph-action-btn.like:hover,
 .ph-action-btn.like.active {
   color: var(--ph-like);
-  background: rgba(249, 24, 128, 0.1);
+  background: transparent;
 }
 
 .ph-action-btn.share:hover {
